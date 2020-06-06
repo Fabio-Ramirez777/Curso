@@ -9,3 +9,6 @@ para agregar al respositoria remoto
 mas cambio para que esto sea real
 
 Esto es para hacer pull
+
+
+para hacer cambios en el github desktop
