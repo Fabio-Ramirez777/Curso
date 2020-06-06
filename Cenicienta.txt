@@ -12,3 +12,5 @@ Esto es para hacer pull
 
 
 para hacer cambios en el github desktop
+
+seguimos agregando mas frases para hacer pull
